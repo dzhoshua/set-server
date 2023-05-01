@@ -9,6 +9,7 @@
 
 ##  VS Code + Insomnia
 Создать папку и положить в неё app.js
+
 При вызове npm init в entry point: (index.js) прописать app.js
 ```
 npm init
