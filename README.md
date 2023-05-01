@@ -8,9 +8,9 @@
 - подсчёт очков каждого игрока (/set/score)
 
 ##  VS Code + Insomnia
-Создать папку и положить в неё app.js
+Создать папку и и файл. Скопировать в файл код из app.js
 
-При вызове npm init в entry point: (index.js) прописать app.js
+При вызове npm init в entry point: (index.js) прописать название вашего файла
 ```
 npm init
 npm install express
